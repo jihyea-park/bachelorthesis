@@ -1,0 +1,13 @@
+stim_name,target_bg,l_probe
+sbcs,w,0.6
+sbcs,w,0.66
+sbcs,w,0.72
+sbcs,w,0.78
+sbcs,w,0.84
+sbcs,w,0.9
+sbcs,b,0.6
+sbcs,b,0.66
+sbcs,b,0.72
+sbcs,b,0.78
+sbcs,b,0.84
+sbcs,b,0.9

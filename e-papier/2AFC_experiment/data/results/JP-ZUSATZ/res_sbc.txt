@@ -1,0 +1,130 @@
+start.png uploaded!
+Start experiment: sbcs_b_P0.96
+g_blank.png uploaded!
+w_blank.png uploaded!
+loaded sbcs_B_P0.96.png
+sbcs_B_P0.96.png uploaded!
+1. sbcs_b_P0.96: RIGHT side is brighter
+Change stimuli: sbcs_b_P0.93
+g_blank.png uploaded!
+w_blank.png uploaded!
+loaded sbcs_B_P0.93.png
+sbcs_B_P0.93.png uploaded!
+2. sbcs_b_P0.93: RIGHT side is brighter
+Change stimuli: sbcs_b_P0.96
+g_blank.png uploaded!
+w_blank.png uploaded!
+loaded sbcs_B_P0.96.png
+sbcs_B_P0.96.png uploaded!
+3. sbcs_b_P0.96: RIGHT side is brighter
+Change stimuli: sbcs_b_P0.93
+g_blank.png uploaded!
+w_blank.png uploaded!
+loaded sbcs_B_P0.93.png
+sbcs_B_P0.93.png uploaded!
+4. sbcs_b_P0.93: RIGHT side is brighter
+Change stimuli: sbcs_b_P0.93
+g_blank.png uploaded!
+w_blank.png uploaded!
+loaded sbcs_B_P0.93.png
+sbcs_B_P0.93.png uploaded!
+left
+5. sbcs_b_P0.93: LEFT side is brighter
+Change stimuli: sbcs_b_P0.96
+g_blank.png uploaded!
+w_blank.png uploaded!
+loaded sbcs_B_P0.96.png
+sbcs_B_P0.96.png uploaded!
+6. sbcs_b_P0.96: RIGHT side is brighter
+Change stimuli: sbcs_b_P0.93
+g_blank.png uploaded!
+w_blank.png uploaded!
+loaded sbcs_B_P0.93.png
+sbcs_B_P0.93.png uploaded!
+left
+7. sbcs_b_P0.93: LEFT side is brighter
+Change stimuli: sbcs_b_P0.93
+g_blank.png uploaded!
+w_blank.png uploaded!
+loaded sbcs_B_P0.93.png
+sbcs_B_P0.93.png uploaded!
+8. sbcs_b_P0.93: RIGHT side is brighter
+Change stimuli: sbcs_b_P0.93
+g_blank.png uploaded!
+w_blank.png uploaded!
+loaded sbcs_B_P0.93.png
+sbcs_B_P0.93.png uploaded!
+9. sbcs_b_P0.93: RIGHT side is brighter
+Change stimuli: sbcs_b_P0.96
+g_blank.png uploaded!
+w_blank.png uploaded!
+loaded sbcs_B_P0.96.png
+sbcs_B_P0.96.png uploaded!
+10. sbcs_b_P0.96: RIGHT side is brighter
+half
+Change stimuli: sbcs_b_P0.93
+g_blank.png uploaded!
+w_blank.png uploaded!
+half.png uploaded!
+g_blank.png uploaded!
+w_blank.png uploaded!
+loaded sbcs_B_P0.93.png
+sbcs_B_P0.93.png uploaded!
+left
+11. sbcs_b_P0.93: LEFT side is brighter
+Change stimuli: sbcs_b_P0.96
+g_blank.png uploaded!
+w_blank.png uploaded!
+loaded sbcs_B_P0.96.png
+sbcs_B_P0.96.png uploaded!
+12. sbcs_b_P0.96: RIGHT side is brighter
+Change stimuli: sbcs_b_P0.93
+g_blank.png uploaded!
+w_blank.png uploaded!
+loaded sbcs_B_P0.93.png
+sbcs_B_P0.93.png uploaded!
+13. sbcs_b_P0.93: RIGHT side is brighter
+Change stimuli: sbcs_b_P0.96
+g_blank.png uploaded!
+w_blank.png uploaded!
+loaded sbcs_B_P0.96.png
+sbcs_B_P0.96.png uploaded!
+14. sbcs_b_P0.96: RIGHT side is brighter
+Change stimuli: sbcs_b_P0.93
+g_blank.png uploaded!
+w_blank.png uploaded!
+loaded sbcs_B_P0.93.png
+sbcs_B_P0.93.png uploaded!
+left
+15. sbcs_b_P0.93: LEFT side is brighter
+Change stimuli: sbcs_b_P0.96
+g_blank.png uploaded!
+w_blank.png uploaded!
+loaded sbcs_B_P0.96.png
+sbcs_B_P0.96.png uploaded!
+16. sbcs_b_P0.96: RIGHT side is brighter
+Change stimuli: sbcs_b_P0.93
+g_blank.png uploaded!
+w_blank.png uploaded!
+loaded sbcs_B_P0.93.png
+sbcs_B_P0.93.png uploaded!
+left
+17. sbcs_b_P0.93: LEFT side is brighter
+Change stimuli: sbcs_b_P0.96
+g_blank.png uploaded!
+w_blank.png uploaded!
+loaded sbcs_B_P0.96.png
+sbcs_B_P0.96.png uploaded!
+18. sbcs_b_P0.96: RIGHT side is brighter
+Change stimuli: sbcs_b_P0.96
+g_blank.png uploaded!
+w_blank.png uploaded!
+loaded sbcs_B_P0.96.png
+sbcs_B_P0.96.png uploaded!
+19. sbcs_b_P0.96: RIGHT side is brighter
+Change stimuli: sbcs_b_P0.96
+g_blank.png uploaded!
+w_blank.png uploaded!
+loaded sbcs_B_P0.96.png
+sbcs_B_P0.96.png uploaded!
+20. sbcs_b_P0.96: RIGHT side is brighter

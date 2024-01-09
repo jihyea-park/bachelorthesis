@@ -1,0 +1,2 @@
+find / -name libstdc++.so.6>/dev/null
+export LD_PRELOAD=/usr/lib/x86_64-linux-gnu/libstdc++.so.6
