@@ -46,7 +46,7 @@ Experiment starts with
 ´python run_experiment.py´
 
 Mostly adapted from examples of [HRL](https://github.com/computational-psychology/hrl) or [Stimupy](https://github.com/computational-psychology/stimupy)
-Scripts without comment below are as-is or with very little changes adapted from HRL.
+Scripts or contents without comment below are as-is or with very little changes adapted from HRL.
 
 - experiment: 
     - data_management.py
@@ -68,6 +68,8 @@ Scripts without comment below are as-is or with very little changes adapted from
         - BASE: base designs of experiments.
     - results
         Results of experiments are saved here.
+- messungen
+    Luminance measurements results within calibration
 
 ### Evaluate Results
 
