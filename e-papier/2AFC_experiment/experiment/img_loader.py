@@ -19,8 +19,6 @@ def upload(img_name:str, img:str):
     print(f'{img_name} uploaded!')
 
 def show_blank():
-    #img_name, img = load_image('blank')
-    #upload(img_name, img)
     img_name, img = load_image('g_blank')
     upload(img_name, img)
     img_name, img = load_image('w_blank')
@@ -47,7 +45,7 @@ def load_stimuli(exp:dict):
 
 def control_stim(stim_name:str):
     img_name = '%s_T0.5.png' % (stim_name.lower())
-    img = './%ss/%s' % (stim_name, img_name)
+    img = './imgs/%ss/%s' % (stim_name, img_name)
     upload(img_name, img)
 
 def set_display(exp:dict, status:str):
